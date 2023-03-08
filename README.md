@@ -21,7 +21,7 @@ Consiste em converter um valor em Reais para uma cesta de moedas e vice e versa.
 ![image](https://user-images.githubusercontent.com/121450070/223544426-883295bc-401a-482e-a3f9-f8d02b9cc673.png)
 
 
-- Atualizar as cotações das moedas da cesta.
+- Atualizar as Cotações das moedas da cesta.
 
 ![image](https://user-images.githubusercontent.com/121450070/223545140-d267876b-7ee7-4980-a615-1cb6b7059172.png)
 
