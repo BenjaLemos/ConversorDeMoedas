@@ -28,7 +28,11 @@ https://user-images.githubusercontent.com/121450070/224201780-a1b0a316-923e-4896
 
 ![image](https://user-images.githubusercontent.com/121450070/223545140-d267876b-7ee7-4980-a615-1cb6b7059172.png)
 
+ - Proximas versões:
 
+Converso de medidas (KM, Metro, Milhas, Milhas Nauticas...)
+Conversão de Pesos (Kg, Gr, Arroba...)
+Conversão de Temperaturas (Celcius, Kelvin, Farenheint..)
 ## Tecnologias usadas:
 - Java
 - Eclipse
