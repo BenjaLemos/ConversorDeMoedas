@@ -8,7 +8,7 @@ Uma iniciativa da ORACLE em parceria com a ALURA.
 
 O projeto proposto à turma do curso Back End – Java ( **#challengeoneconversorbr4**) foi 
 de desenvolver um Conversor de Moedas utilizando a linguagem Java.
-Consiste em converter um valor em Reais para uma cesta de moedas e vice e versa.
+Consiste em converter um valor em Reais para uma cesta de moedas e vice e versa. Nesta versão os valores das taxas de câmbio das moedas estão dentro código e são cotações do dia 24 de fevereiro de 2023, mas existe a possibolidade de atualizar essas taxas de câmbio das moedas.
 
 
 https://user-images.githubusercontent.com/121450070/224201780-a1b0a316-923e-4896-99a5-48f477b08a42.mp4
